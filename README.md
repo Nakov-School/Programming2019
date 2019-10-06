@@ -1,2 +1,3 @@
-# Programming2019
+# Programming 2019
 Школата на Наков - випуск 2019, приложно програмиране
+Научете повече на https://nakov.softuni.bg.
